@@ -19,3 +19,4 @@ Requires PyU4V Please follow installation instructions on the GitHub
 
 https://github.com/ciarams87/PyU4V
 
+https://community.emc.com/people/PaulCork/blog/2018/09/24/ansible-modules-for-vmax-and-powermax
